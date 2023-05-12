@@ -70,7 +70,7 @@ export default function Header() {
         <Type />
 
       </h3>
-      <p className="mt-4 text-md text-gray-200">Hey Guys! I'm Michel Fawaz, a Web3 Developer and a Full Stack Developer.
+      <p className="mt-4 text-md text-gray-200">Hey Guys! I&apos;m Michel Fawaz, a Web3 Developer and a Full Stack Developer.
         I studied at the American University of Beirut and Got my degree in Computer Science.</p>
     </div>
     </div>
