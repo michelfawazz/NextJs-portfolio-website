@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "bg":"https://i.ibb.co/HqhSBzP/ff.png",
+            "name":"FungibleFlex",
+            "text":"Developed and designed software architecture for the Fungible Flex product.• Consists of three Web applications that interact with each other and the Nest.Js backend.• Built with advanced ArangoDB Database for a faster and more secure database system.",
+            "url":"https://fungibleflex.com"
+        },
+        {
+            "bg":"https://i.ibb.co/7SxhKZ7/vv.png",
+            "name":"Vesuvio NFT",
+            "text":"NFT collection and membership website made for Vesuvio restaurant.",
+            "url":"https://vesuv.io"
+        },
+        {
+            "bg":"https://i.ibb.co/2hDY5Y4/pp.png",
+            "name":"Portfolio Website",
+            "text":"My Current Portfolio website source code",
+            "url":"https://github.com/michelfawazz/NextJs-portfolio-website"
+        },
+        {
+            "bg": "https://i.ibb.co/4TG0gDG/1024nft.jpg",
+            "name": "1024 NFT GAME",
+            "text":"- Burn and merge your NFTs to reach 1024 and unlock the jackpot. - Smart Contract and Website development.",
+            "url": "https://www.nftgame1024.wtf/"
+        },
+        {
+            "bg": "https://i.ibb.co/R0QbmGj/Aktion.png",
+            "name": "Aktion T4",
+            "text":"NFT collection development for the Aktion T4 campaign. Developed The minting page, Smart contract and metadata generation",
+            "url": "https://aktiont4.com"
+        },
+        {
+            "bg": "https://i.ibb.co/MDJGJq0/Queue.jpg",
+            "name": "Queue Up",
+            "text":"Contactless queue management system developed to help businesses in Lebanon during the COVID crisis Developed using HTML, CSS, and JavaScript for the front-end and using Django Python and MongoDB for the backend Made use of multiple API’s mainly the Twilio API to get instant SMS notifications",
+            "url": "https://github.com/michelfawazz/QueueUp"
+        },
+        {
+            "bg": "https://i.ibb.co/SKF5dg9/Easylist.png",
+            "name": "EasyList",
+            "text":"Mobile App for students to manage their daily tasks and create teams and assign tasks to each other, developed using Java",
+            "url": "https://github.com/michelfawazz/EasyList"
+        }
+        
+    ]
+}
