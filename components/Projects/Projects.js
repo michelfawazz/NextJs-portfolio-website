@@ -6,6 +6,11 @@ import Link from "next/link";
 
 
 export default function Projects() {
+  function shortenUrl(url) {
+    if (url.length > 10) {
+        return url.substring(0, 20) + "...";
+        }
+    }
   return (
     <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 w-full gap-2 items-center mt-4">
           {projects.data.map((item, index) => (
@@ -17,7 +22,7 @@ export default function Projects() {
               </div>
               <p className="text-xs italic mt-6">
                 <i className="fal fa-arrow-up-right-from-square mr-1" />
-                {item.name === "Weather App" ? "www.mediafire.com" : item.url}
+                {item.name === "Weather App" ? "www.mediafire.com" : shortenUrl(item.url)}
               </p>
             </Link>
           ))}
